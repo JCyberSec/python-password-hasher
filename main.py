@@ -1,5 +1,5 @@
 # Password Cracker
-# By UP724145
+
 
 import crypt
 
